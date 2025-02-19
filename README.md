@@ -30,4 +30,3 @@ In order to run the source files, please install:
 - `pr_curve.py` will output ROC and AUC.
 
 ### Again, `src/main.py` or `scr/main.ipynb` will initialize the correct pipeline and output all the information.
-
