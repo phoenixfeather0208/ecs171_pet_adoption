@@ -31,4 +31,3 @@ In order to run the source files, please install:
 
 ### Again, `src/main.py` or `scr/main.ipynb` will initialize the correct pipeline and output all the information.
 
-
